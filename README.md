@@ -1,2 +1,2 @@
 # Xavier-s-attendance-
-This is helpful for getting attendancen 
+This is helpful for getting attendance
